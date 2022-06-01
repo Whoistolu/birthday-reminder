@@ -41,7 +41,7 @@ Variables
   --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
   --max-width: 1170px;
   --fixed-width: 450px;
-  --clr-pink: #f28ab2;
+  --clr-pink: #00008B;
 }
 /*
 =============== 
@@ -179,7 +179,7 @@ main {
   display: block;
   width: 100%;
   border-color: transparent;
-  background: var(--clr-pink);
+  background: #00008B;
   margin: 2rem auto 0 auto;
   text-transform: capitalize;
   font-size: 1.2rem;
